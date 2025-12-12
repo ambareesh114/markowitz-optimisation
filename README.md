@@ -17,11 +17,11 @@ Comparison of GMV, MSR, and custom utility portfolios
 
 2. Features Implementation
    
-    2.1 Efficient Frontier
-    2.2 Computes portfolio return–volatility combinations
-    2.3 Visualizes feasible region vs efficient set
-
-3. Supports multiple assets
+   -* 2.1 Efficient Frontier
+    -* 2.2 Computes portfolio return–volatility combinations
+    2.3 Visualizes feasible region vs efficient set.
+   
+4.  Supports multiple assets
 
     3.1 Global Minimum Variance (GMV) Portfolio: Lowest possible portfolio risk
     3.2 Maximum Sharpe Ratio (MSR) Portfolio: Optimal weights for highest risk-adjusted return (Allows specifying custom risk-free rate)
