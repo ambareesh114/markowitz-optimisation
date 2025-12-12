@@ -8,6 +8,7 @@ and utility-based optimization. All computations are modularized using a custom 
 
 The Markowitz framework provides a mathematical method for allocating capital across assets
 to balance risk vs return. This notebook demonstrates:
+
     1.1 Efficient frontier construction
     1.2 Risk–return trade-off visualization
     1.3 Portfolio optimization using convex methods
